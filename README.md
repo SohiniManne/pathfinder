@@ -240,13 +240,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [GitHub](https://github.com/SohiniManne)
+- Sohini Manne - [GitHub](https://github.com/SohiniManne)
 
 ## 🙏 Acknowledgments
 
 - Career data inspired by O*NET Database
 - Skills taxonomy from industry standards
 - UI design inspired by modern career platforms
+
 
 
 ⭐ If you find this project helpful, please give it a star!
